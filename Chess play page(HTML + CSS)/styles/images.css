@@ -1,0 +1,132 @@
+.chesscom-logo{
+  height: 37.5px;
+  width: 131px;
+  margin-left: 16px;
+  margin-right: 16px;
+  margin-top:  20px;
+}
+
+.league-logo{
+  height: 50px;
+  width: 50px;
+}
+
+.hand{
+  height: 30px;
+  width: 30px;
+  margin-left: 15px;
+}
+
+.puzzles-logo{
+  height: 30px;
+  width: 30px;
+  margin-left: 13px;
+}
+
+.lesson-logo{
+  height: 30px;
+  width: 30px;
+  margin-left: 13px;
+}
+
+.watch-logo{
+  height: 30px;
+  width: 30px;
+  margin-left: 13px;
+}
+
+.news-logo{
+  height: 30px;
+  width: 30px;
+  margin-left: 13px;
+}
+
+.social-logo{
+  height: 30px;
+  width: 30px;
+  margin-left: 13px;
+}
+
+.more-logo{
+  height: 30px;
+  width: 30px;
+  margin-left: 13px;
+}
+
+.free-logo{
+  height: 30px;
+  width: 30px;
+  margin-left: 13px;
+}
+
+.lightUI-logo{
+  height: 30px;
+  width: 30px;
+  margin-left: 13px;
+  margin-top: 10px;
+}
+
+.collapse-logo{
+  height: 30px;
+  width: 30px;
+  margin-left: 13px;
+}
+
+.settings-logo{
+  height: 30px;
+  width: 30px;
+  margin-left: 13px;
+}
+
+.support-logo{
+  height: 30px;
+  width: 30px;
+  margin-left: 13px;
+}
+
+.board-logo{
+  height: 556.8px;
+  width: 556.8px;
+}
+
+.opponent-logo{
+  height: 40px;
+  width: 40px;
+  border-radius: 3px;
+}
+
+.hand-right{
+  height: 88px;
+  width: 88px;
+}
+
+.play-online{
+  margin-left: 25px;
+  margin-top: 12px;
+  margin-right: 15px;
+  margin-bottom: 5px;
+}
+
+.play-bot{
+  margin-left: 25px;
+  margin-top: 12px;
+  margin-right: 15px;
+}
+
+.play-friend{
+  margin-left: 25px;
+  margin-top: 12px;
+  margin-right: 15px;
+}
+
+.play-tournament{
+  margin-left: 25px;
+  margin-top: 12px;
+  margin-right: 15px;
+}
+
+.play-chess-variant{
+  margin-left: 25px;
+  margin-top: 12px;
+  margin-right: 15px;
+}

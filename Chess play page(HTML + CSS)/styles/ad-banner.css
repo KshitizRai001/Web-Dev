@@ -1,0 +1,16 @@
+.ad-banner{
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  height: 621px;
+  width: 17%;
+  color: rgb(0, 0, 0);
+  background-color: rgb(134, 130, 122);
+  border-radius: 5px;
+  max-width: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  font-weight: 700;
+}

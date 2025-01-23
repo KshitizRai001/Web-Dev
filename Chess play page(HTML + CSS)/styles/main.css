@@ -1,0 +1,33 @@
+.main{
+  margin-left: 185px;
+  padding-top: 15px;
+  display: flex;
+  flex-direction: row;
+}
+
+.opponent{
+  display: flex;
+  align-items: center;
+}
+
+.opponent-name{
+  color: white;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  margin-left: 10px;
+  margin-top: 15px;
+}
+
+.profile{
+  display: flex;
+  align-items: center;
+}
+
+.my-name{
+  color: white;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  margin-left: 10px;
+  margin-top: 15px;
+}
+

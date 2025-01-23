@@ -1,0 +1,188 @@
+.right-menu{
+  display: flex;
+  width: 450px;
+  margin: 32px;
+  background-color: rgb(37, 36, 35);
+  border-radius: 4px;
+  margin-top: 5px;
+  flex-direction: column;
+}
+
+.play-chess-right{
+  color: white;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 700;
+  margin-top: 10px;
+  font-size: 30px;
+  display: flex;
+  width: 450px;
+  justify-content: center;
+}
+
+.hand-right-div{
+  display: flex;
+  justify-content: center;
+}
+
+.play-container{
+  background-color: rgb(0, 0, 0, 0.14);
+  display: flex;
+  margin-top: 12px;
+  border-radius: 5px;
+  margin-left: 25px;
+  margin-right: 25px;
+  cursor: pointer;
+}
+
+.play-online-text{
+  color: white;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 650;
+  margin-top: 15px;
+  font-size: 25px;
+  display: flex;
+  margin-bottom: 0px;
+}
+
+.play-online-desc{
+  color: white;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 14px;
+  margin-bottom: 7px;
+  margin-top: 0;
+  font-weight: 200;
+}
+
+.play-bot-container{
+  background-color: rgb(0, 0, 0, 0.14);
+  display: flex;
+  margin-top: 12px;
+  border-radius: 5px;
+  margin-left: 25px;
+  margin-right: 25px;
+  cursor: pointer
+}
+
+.play-bot-text{
+  color: white;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 650;
+  margin-top: 15px;
+  font-size: 25px;
+  display: flex;
+  margin-bottom: 0px;
+}
+
+.play-bot-desc{
+  color: white;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 14px;
+  margin-bottom: 7px;
+  margin-top: 0;
+  font-weight: 200;
+}
+
+.play-friend-container{
+  background-color: rgb(0, 0, 0, 0.14);
+  display: flex;
+  margin-top: 12px;
+  border-radius: 5px;
+  margin-left: 25px;
+  margin-right: 25px;
+  cursor: pointer
+}
+
+.play-friend-text{
+  color: white;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 650;
+  margin-top: 15px;
+  font-size: 25px;
+  display: flex;
+  margin-bottom: 0px;
+}
+
+.play-friend-desc{
+  color: white;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 14px;
+  margin-bottom: 7px;
+  margin-top: 0;
+  font-weight: 200;
+}
+
+.play-tournament-container{
+  background-color: rgb(0, 0, 0, 0.14);
+  display: flex;
+  margin-top: 12px;
+  border-radius: 5px;
+  margin-left: 25px;
+  margin-right: 25px;
+  cursor: pointer
+}
+
+.play-tournament-text{
+  color: white;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 650;
+  margin-top: 15px;
+  font-size: 25px;
+  display: flex;
+  margin-bottom: 0px;
+}
+
+.play-tournament-desc{
+  color: white;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 14px;
+  margin-bottom: 7px;
+  margin-top: 0;
+  font-weight: 200;
+}
+
+.play-chess-variant-container{
+  background-color: rgb(0, 0, 0, 0.14);
+  display: flex;
+  margin-top: 12px;
+  border-radius: 5px;
+  margin-left: 25px;
+  margin-right: 25px;
+  cursor: pointer
+}
+
+.play-chess-variant-text{
+  color: white;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 650;
+  margin-top: 15px;
+  font-size: 25px;
+  display: flex;
+  margin-bottom: 0px;
+}
+
+.play-chess-variant-desc{
+  color: white;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 14px;
+  margin-bottom: 7px;
+  margin-top: 0;
+  font-weight: 200;
+}
+
+.play-container:hover,
+.play-bot-container:hover,
+.play-friend-container:hover,
+.play-tournament-container:hover,
+.play-chess-variant-container:hover {
+  transform: scale(1.05);
+  background-color: rgb(0, 0, 0, 0.065);
+}
+
+.play-container,
+.play-bot-container,
+.play-friend-container,
+.play-tournament-container,
+.play-chess-variant-container {
+  transition: transform,background-color 0.15s ease;
+  box-shadow: 1px 1px 5px;
+}
